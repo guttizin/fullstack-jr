@@ -47,8 +47,9 @@ Sistema de e-commerce completo desenvolvido com NestJS (backend) e React (fronte
    DB_PASSWORD=postgres
    DB_DATABASE=ecommerce
    ```
+### **É necessário uma instância local do postgres, com schema ecommerce criado. Tabelas serão criadas automaticamente.**
 
-3. **Execute o backend**
+4. **Execute o backend**
    ```bash
    npm run start:dev
    ```
@@ -211,13 +212,7 @@ POSTGRES_DB=ecommerce
 
 ## 🚀 Próximos Passos
 
-- [ ] Implementar autenticação JWT
-- [ ] Adicionar testes automatizados
-- [ ] Implementar sistema de pagamentos
-- [ ] Adicionar upload de imagens
-- [ ] Implementar cache com Redis
-- [ ] Adicionar monitoramento e logs
-- [ ] Implementar CI/CD
+- [ ] Implementar Flutter
 
 ## 📄 Licença
 
