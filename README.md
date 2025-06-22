@@ -68,6 +68,8 @@ Sistema de e-commerce completo desenvolvido com NestJS (backend) e React (fronte
    ```
 
 3. **Acesse**: http://localhost:5173
+4. Para criação de customer, não é feita validação de email nem telefone. Inserir dados genéricos.
+    - Exemplo: email: a@a.com e telefone 99999999
 
 ## 🏗️ Arquitetura e Decisões Técnicas
 
